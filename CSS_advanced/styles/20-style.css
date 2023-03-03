@@ -131,7 +131,7 @@ text-align: right;
 {
 content: "";
 display: table;
-float: none;
+clear: both;
 }
 
 .container
