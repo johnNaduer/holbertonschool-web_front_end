@@ -129,6 +129,12 @@ margin: var(--nav-item-margin);
 
 }
 
+.nav .nav-link
+{
+display: block;
+padding: var(--font-size-medium)  var(--font-size-large);
+}
+
 :root
 {
   --color-primary: #D73953;
