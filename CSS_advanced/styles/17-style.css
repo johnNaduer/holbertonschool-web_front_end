@@ -74,9 +74,10 @@ a:active
  text-align: var(--section-footer-align);
 }
 
-
-
-
+.footer
+{
+padding: var(--footer-padding);
+}
 
 .section-title
 {
