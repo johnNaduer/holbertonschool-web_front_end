@@ -122,6 +122,10 @@ font-size: var(--font-size-small);
 color: var(--text-color);
 }
 
+ul.footer
+{
+text-align: right;
+}
 .container
 {
 width: 960px;
