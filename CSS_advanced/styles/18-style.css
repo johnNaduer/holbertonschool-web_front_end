@@ -121,12 +121,9 @@ text-align: center;
 
 }
 
-.nav-item
+.nav.nav-item
 {
 font-family: var(--nav-item-font-family);
-
-
-
 
 }
 
