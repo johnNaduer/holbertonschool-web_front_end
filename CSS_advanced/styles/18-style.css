@@ -132,7 +132,11 @@ margin: var(--nav-item-margin);
 .nav .nav-link
 {
 display: block;
-padding: var(--font-size-medium)  var(--font-size-large);
+padding: 0.5rem 1rem;
+}
+
+.nav .nav-link:hover {
+color: var(--nav-item-link-hover);
 }
 
 :root
