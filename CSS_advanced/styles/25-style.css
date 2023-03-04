@@ -221,9 +221,7 @@ padding: 0.5rem 1rem;
 color: var(--nav-item-link-hover);
 }
 
-
-
-a:active + .button {
+.button {
   display: var(--button-display);
   padding: var(--button-padding);
   border: var(--button-border);
