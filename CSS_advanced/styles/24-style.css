@@ -162,7 +162,7 @@ padding: 0.5rem;
 
 .card-services a {
   display: block;
-  padding: calc(2 * var(--root-element));
+  padding: 2rem;
   background-color: var(--color-light-grey);
 }
 
