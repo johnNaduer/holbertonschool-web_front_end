@@ -284,8 +284,8 @@ a:active + .button:hover {
   --button-border: 0.2rem solid var(--color-primary);
   --button-color: var(--color-black);
   --button-text-decoration: none;
-  --button-font-size: font-size-large;
-  --button-hover-color: color-white;
+  --button-font-size: var(--font-size-large);
+  --button-hover-color: var(--color-white);
   --button-hover-text-decoration: none;
   --button-hover-background: color-primary;
   --button-color-dark: color-white;
