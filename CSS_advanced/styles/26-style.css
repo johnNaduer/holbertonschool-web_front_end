@@ -250,7 +250,7 @@ color: var(--nav-item-link-hover);
   height: 10rem;
 }
 
-.card-testimonial blockquote cite {
+.card-testimonial .card-quote cite {
   display: block;
   padding-top: 1rem;
   color: var(--color-primary);
