@@ -270,7 +270,7 @@ margin-bottom: 5rem;
 }
 
 
-header {
+.header {
   padding: var(--header-padding);
 }
 
